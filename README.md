@@ -24,4 +24,4 @@ This repository contains interactive dashboards built using Microsoft Power BI t
 ![Dashboard Preview](images/attrition_dashboard.png)
 
 ## 🚀 Author
-M. Ghadiya — [LinkedIn Profile](https://linkedin.com/in/yourusername)
+M. Ghadiya — [LinkedIn Profile](https://www.linkedin.com/in/meet-ghadiya-9b7b19273/)
