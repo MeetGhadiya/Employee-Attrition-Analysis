@@ -20,8 +20,8 @@ An interactive Power BI dashboard project designed to analyze employee attrition
 To build a dynamic HR analytics dashboard that helps organizations understand employee attrition trends and make data-driven decisions for retention.
 
 ### 📁 Files Included:
-- `Employee_Attrition_Analysis.pbix` – Power BI dashboard file
-- `Employee_Attrition_Analysis.xlsx` – Sample dataset
-- `Dashboard.png` – Visual preview of the dashboard
-- `Project_Report.pdf` – Summary report of the project
+- `Employee Attrition Analysis.pbix` – Power BI dashboard file
+- `Employee_Attrition_Analysis.csv` – Sample dataset
+- `Dashboard.PNG` – Visual preview of the dashboard
+- `Project report.pdf` – Summary report of the project
 
