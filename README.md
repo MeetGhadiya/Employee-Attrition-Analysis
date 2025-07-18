@@ -21,7 +21,7 @@ This repository contains interactive dashboards built using Microsoft Power BI t
 - `.png`: Dashboard screenshots
 
 ## 🔗 Preview
-![Dashboard Preview](images/attrition_dashboard.png)
+![Dashboard Preview](Employee Attrition Analysis.pbix)
 
 ## 🚀 Author
 M. Ghadiya — [LinkedIn Profile](https://www.linkedin.com/in/meet-ghadiya-9b7b19273/)
