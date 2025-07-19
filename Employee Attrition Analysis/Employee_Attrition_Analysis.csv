@@ -1,0 +1,301 @@
+Employee ID,Age,Gender,Department,Job Role,Performance Rating,Years at Company,Salary,Education Level,Attrition,Exit Date
+E0001,22,Other,Operations,Logistics Coordinator,1,20,62282,3,No,
+E0002,49,Male,Operations,Logistics Coordinator,2,5,96723,2,No,
+E0003,23,Male,HR,Recruiter,1,7,94776,2,No,
+E0004,31,Female,Operations,Operations Manager,1,17,69186,5,Yes,2023-08-23
+E0005,35,Female,HR,Recruiter,5,20,60645,4,No,
+E0006,43,Male,HR,Recruiter,1,15,33941,3,No,
+E0007,26,Other,HR,HR Executive,4,19,67466,2,Yes,2023-06-20
+E0008,27,Other,Sales,Account Manager,4,8,48978,1,No,
+E0009,30,Male,IT,System Admin,2,1,41143,5,No,
+E0010,26,Other,IT,System Admin,4,13,64427,4,No,
+E0011,32,Male,Operations,Logistics Coordinator,1,20,36563,5,No,
+E0012,24,Male,HR,Recruiter,5,9,34041,5,No,
+E0013,39,Female,HR,Recruiter,3,16,100059,2,Yes,2023-11-07
+E0014,46,Male,HR,HR Executive,1,6,60270,4,No,
+E0015,29,Other,Operations,Logistics Coordinator,3,19,102044,1,No,
+E0016,42,Other,HR,HR Executive,2,3,115379,4,No,
+E0017,33,Male,Operations,Logistics Coordinator,1,6,92367,4,No,
+E0018,41,Male,HR,Recruiter,1,10,88610,2,No,
+E0019,43,Female,Sales,Sales Rep,5,8,80500,5,Yes,2023-10-17
+E0020,44,Other,Finance,Financial Analyst,1,8,102323,5,Yes,2023-12-16
+E0021,46,Female,Finance,Financial Analyst,1,2,38689,4,No,
+E0022,59,Other,IT,System Admin,2,14,65762,4,No,
+E0023,36,Male,HR,HR Executive,4,3,80014,2,Yes,2023-05-09
+E0024,27,Other,IT,System Admin,4,8,61296,3,No,
+E0025,46,Other,HR,HR Executive,5,3,65935,2,No,
+E0026,47,Female,IT,System Admin,4,3,106535,3,No,
+E0027,56,Female,Finance,Accountant,1,19,90274,3,No,
+E0028,51,Male,Finance,Accountant,5,16,35447,3,No,
+E0029,31,Female,Finance,Accountant,4,1,68299,2,No,
+E0030,49,Male,Finance,Accountant,1,3,91519,4,No,
+E0031,53,Male,Operations,Logistics Coordinator,4,6,101211,5,No,
+E0032,51,Female,IT,System Admin,1,13,55772,3,No,
+E0033,49,Female,Operations,Operations Manager,1,12,40529,3,No,
+E0034,33,Other,Operations,Logistics Coordinator,5,16,90060,2,Yes,2023-12-22
+E0035,53,Female,Operations,Operations Manager,4,1,55001,5,No,
+E0036,33,Male,Operations,Operations Manager,1,5,97688,4,No,
+E0037,48,Male,Finance,Financial Analyst,3,11,108270,5,No,
+E0038,57,Other,IT,Developer,1,5,96411,1,No,
+E0039,41,Female,Finance,Financial Analyst,2,2,111262,5,Yes,2023-07-14
+E0040,28,Other,HR,HR Executive,1,2,114058,3,No,
+E0041,46,Other,Finance,Financial Analyst,3,17,115569,5,No,
+E0042,60,Male,HR,HR Executive,2,1,117425,4,No,
+E0043,56,Female,Finance,Financial Analyst,1,3,91268,3,Yes,2023-05-18
+E0044,28,Other,Finance,Accountant,1,14,62768,4,No,
+E0045,26,Female,Sales,Account Manager,2,16,64827,5,No,
+E0046,39,Female,Operations,Operations Manager,3,13,40090,1,No,
+E0047,59,Male,IT,System Admin,3,2,40311,1,Yes,2023-10-24
+E0048,22,Male,Sales,Sales Rep,4,7,93676,5,No,
+E0049,58,Other,IT,Developer,5,18,56631,2,No,
+E0050,38,Other,IT,Developer,5,13,43572,4,No,
+E0051,26,Male,Finance,Financial Analyst,2,5,76690,3,No,
+E0052,44,Other,Operations,Logistics Coordinator,3,14,77708,1,Yes,2023-12-14
+E0053,29,Other,Operations,Operations Manager,2,1,82239,2,No,
+E0054,23,Male,IT,System Admin,2,1,112175,1,No,
+E0055,47,Male,Finance,Financial Analyst,3,12,115233,4,No,
+E0056,49,Other,HR,HR Executive,3,18,70779,2,No,
+E0057,50,Female,HR,HR Executive,4,1,108733,4,No,
+E0058,57,Male,IT,Developer,2,4,48258,3,Yes,2023-01-13
+E0059,56,Female,HR,HR Executive,4,12,55583,4,No,
+E0060,28,Male,Sales,Sales Rep,5,3,108509,5,Yes,2023-05-19
+E0061,52,Other,Finance,Financial Analyst,2,0,70168,4,No,
+E0062,47,Female,Operations,Logistics Coordinator,4,17,40937,3,No,
+E0063,36,Female,HR,Recruiter,3,16,47802,5,No,
+E0064,37,Other,Sales,Sales Rep,2,12,99667,1,No,
+E0065,27,Other,HR,HR Executive,2,8,56068,2,No,
+E0066,25,Male,HR,HR Executive,1,6,101757,3,No,
+E0067,29,Female,HR,Recruiter,3,5,99202,3,Yes,2023-12-04
+E0068,32,Other,Sales,Sales Rep,3,5,108357,3,No,
+E0069,26,Female,IT,System Admin,2,11,43345,2,Yes,2023-01-13
+E0070,25,Male,IT,System Admin,1,8,106658,3,Yes,2023-05-29
+E0071,24,Male,IT,System Admin,2,5,72700,2,Yes,2023-05-10
+E0072,43,Male,Operations,Logistics Coordinator,3,20,115694,3,No,
+E0073,33,Other,Operations,Logistics Coordinator,1,7,71527,1,Yes,2023-06-08
+E0074,29,Male,Sales,Account Manager,1,8,86979,4,No,
+E0075,59,Other,HR,HR Executive,4,2,35912,4,No,
+E0076,44,Male,IT,System Admin,5,6,71414,3,Yes,2023-04-30
+E0077,49,Female,Sales,Sales Rep,3,4,112882,5,No,
+E0078,28,Female,IT,System Admin,2,2,33488,5,No,
+E0079,59,Other,Operations,Logistics Coordinator,2,1,78379,3,No,
+E0080,38,Other,Sales,Sales Rep,3,1,45624,1,Yes,2023-11-13
+E0081,57,Female,Sales,Account Manager,3,17,46049,4,No,
+E0082,40,Female,Operations,Operations Manager,4,10,62926,5,No,
+E0083,45,Other,IT,Developer,1,10,58725,3,No,
+E0084,50,Other,Sales,Account Manager,4,16,65654,3,No,
+E0085,27,Female,Finance,Accountant,1,8,47235,2,No,
+E0086,60,Female,Sales,Sales Rep,2,12,102895,1,Yes,2023-10-03
+E0087,58,Male,Sales,Sales Rep,4,8,56526,1,Yes,2023-08-30
+E0088,54,Male,Sales,Sales Rep,1,2,51627,5,No,
+E0089,57,Female,HR,HR Executive,1,18,101801,1,No,
+E0090,32,Female,Operations,Logistics Coordinator,4,15,65959,5,No,
+E0091,31,Male,HR,HR Executive,5,2,40016,1,No,
+E0092,22,Other,Sales,Account Manager,3,5,64103,3,No,
+E0093,57,Other,HR,HR Executive,4,18,59423,3,No,
+E0094,37,Male,Operations,Logistics Coordinator,2,0,107946,1,Yes,2023-12-31
+E0095,58,Other,Finance,Financial Analyst,2,12,110108,2,No,
+E0096,29,Male,Finance,Financial Analyst,3,12,42519,5,No,
+E0097,58,Female,HR,HR Executive,5,2,79180,2,No,
+E0098,39,Female,Sales,Sales Rep,1,16,99315,1,Yes,2023-10-09
+E0099,42,Female,Finance,Financial Analyst,5,4,97325,5,No,
+E0100,52,Male,Operations,Operations Manager,5,14,31952,1,Yes,2023-10-03
+E0101,48,Female,Operations,Logistics Coordinator,5,11,78044,5,No,
+E0102,45,Other,Sales,Sales Rep,5,13,68313,1,No,
+E0103,42,Male,HR,HR Executive,5,13,78291,2,No,
+E0104,37,Other,Sales,Account Manager,5,7,40899,5,No,
+E0105,39,Other,IT,Developer,4,11,91412,3,Yes,2023-05-10
+E0106,60,Male,Operations,Operations Manager,3,1,99696,5,No,
+E0107,43,Male,Finance,Accountant,3,5,30545,3,Yes,2023-09-03
+E0108,58,Female,IT,Developer,5,11,78024,1,No,
+E0109,32,Other,Finance,Accountant,5,4,89511,1,Yes,2023-11-02
+E0110,50,Male,Operations,Logistics Coordinator,4,10,84800,5,No,
+E0111,48,Male,Sales,Account Manager,4,15,106551,1,Yes,2023-07-04
+E0112,25,Other,Finance,Financial Analyst,5,17,78676,4,No,
+E0113,54,Other,IT,Developer,3,7,41316,5,No,
+E0114,51,Female,IT,System Admin,3,1,85151,5,Yes,2023-02-14
+E0115,35,Other,Sales,Account Manager,5,11,32655,3,No,
+E0116,45,Other,Sales,Sales Rep,5,11,89957,1,No,
+E0117,25,Other,HR,HR Executive,3,6,32678,3,No,
+E0118,47,Other,Sales,Sales Rep,3,14,33758,5,No,
+E0119,23,Female,HR,Recruiter,2,8,31863,4,Yes,2023-11-13
+E0120,53,Male,HR,HR Executive,5,0,99736,2,No,
+E0121,51,Male,Sales,Sales Rep,1,2,44074,2,No,
+E0122,25,Other,IT,Developer,4,16,98566,5,No,
+E0123,54,Male,IT,Developer,4,0,111346,3,No,
+E0124,34,Male,Finance,Financial Analyst,3,19,115838,1,Yes,2023-02-18
+E0125,49,Male,Sales,Account Manager,4,20,93044,2,No,
+E0126,55,Other,Operations,Logistics Coordinator,5,16,65026,1,No,
+E0127,23,Female,HR,HR Executive,5,7,98053,1,No,
+E0128,26,Female,Operations,Logistics Coordinator,3,19,38626,4,No,
+E0129,49,Other,IT,Developer,1,10,37603,2,No,
+E0130,39,Other,Finance,Accountant,1,8,85091,3,No,
+E0131,59,Other,Sales,Sales Rep,1,11,35371,4,No,
+E0132,27,Other,Sales,Account Manager,2,16,33927,3,No,
+E0133,60,Male,HR,HR Executive,3,10,68533,4,No,
+E0134,44,Male,IT,System Admin,4,13,81794,3,No,
+E0135,55,Other,Operations,Logistics Coordinator,2,12,47799,1,No,
+E0136,38,Female,Operations,Logistics Coordinator,4,12,58206,5,Yes,2023-11-03
+E0137,55,Female,Operations,Logistics Coordinator,2,4,62294,3,No,
+E0138,41,Other,HR,Recruiter,2,2,79757,2,No,
+E0139,35,Female,Finance,Accountant,1,16,51084,2,No,
+E0140,46,Other,Sales,Account Manager,3,5,36985,2,No,
+E0141,58,Female,IT,Developer,4,6,69600,3,No,
+E0142,39,Other,IT,Developer,3,4,103394,1,No,
+E0143,42,Other,Finance,Financial Analyst,2,8,119831,2,No,
+E0144,38,Other,Finance,Accountant,2,1,90490,5,No,
+E0145,43,Other,IT,Developer,1,2,53930,4,No,
+E0146,42,Other,HR,HR Executive,3,5,48108,5,No,
+E0147,38,Female,IT,System Admin,3,6,45325,2,No,
+E0148,38,Male,Sales,Sales Rep,3,14,108204,3,No,
+E0149,52,Female,IT,System Admin,4,20,77992,4,No,
+E0150,45,Male,IT,Developer,4,9,113594,4,No,
+E0151,36,Other,Finance,Financial Analyst,4,7,103830,2,No,
+E0152,53,Other,Finance,Financial Analyst,4,15,105304,2,No,
+E0153,37,Female,IT,System Admin,4,12,72539,5,Yes,2023-06-07
+E0154,51,Other,Sales,Sales Rep,2,20,100294,5,No,
+E0155,22,Female,Sales,Sales Rep,2,15,60543,4,No,
+E0156,27,Male,HR,Recruiter,3,17,38086,4,No,
+E0157,59,Female,IT,System Admin,5,2,54250,4,No,
+E0158,36,Female,HR,Recruiter,5,9,76583,5,No,
+E0159,26,Male,HR,HR Executive,2,10,101600,1,No,
+E0160,53,Other,Operations,Logistics Coordinator,4,12,31590,1,No,
+E0161,23,Male,Operations,Logistics Coordinator,2,3,104088,5,No,
+E0162,34,Female,Sales,Sales Rep,5,8,114987,4,Yes,2023-02-24
+E0163,50,Other,Operations,Operations Manager,5,19,38007,5,No,
+E0164,58,Other,Sales,Sales Rep,3,6,46530,5,No,
+E0165,60,Male,HR,HR Executive,5,2,100249,5,No,
+E0166,22,Female,Sales,Account Manager,3,10,30588,2,Yes,2023-10-12
+E0167,31,Female,Operations,Operations Manager,1,9,85684,4,No,
+E0168,27,Female,HR,Recruiter,5,17,98513,1,No,
+E0169,30,Male,IT,System Admin,4,9,110058,1,No,
+E0170,55,Male,Operations,Logistics Coordinator,4,16,80780,2,No,
+E0171,31,Male,IT,Developer,3,15,113070,5,No,
+E0172,31,Other,HR,HR Executive,5,5,55703,2,No,
+E0173,43,Female,IT,System Admin,3,7,93772,1,No,
+E0174,31,Male,Finance,Accountant,2,2,45069,2,Yes,2023-10-27
+E0175,59,Other,IT,System Admin,4,19,36526,1,No,
+E0176,30,Other,IT,Developer,4,9,47783,3,Yes,2023-10-02
+E0177,59,Other,IT,System Admin,1,18,105342,1,Yes,2023-08-28
+E0178,51,Male,HR,HR Executive,3,9,105155,4,No,
+E0179,33,Other,Sales,Sales Rep,2,15,40797,2,No,
+E0180,34,Other,Finance,Accountant,5,18,100320,1,No,
+E0181,24,Male,HR,HR Executive,1,7,55084,2,No,
+E0182,54,Female,HR,Recruiter,4,9,100674,1,Yes,2023-04-21
+E0183,29,Female,Finance,Accountant,3,1,118683,3,No,
+E0184,40,Other,Operations,Logistics Coordinator,5,5,84264,2,No,
+E0185,33,Other,IT,System Admin,5,3,66427,2,Yes,2023-10-12
+E0186,26,Female,Operations,Operations Manager,3,9,102037,3,No,
+E0187,35,Male,IT,Developer,4,7,108343,2,No,
+E0188,51,Male,Sales,Account Manager,4,16,37260,4,No,
+E0189,50,Male,IT,System Admin,5,19,33799,1,No,
+E0190,53,Other,Sales,Sales Rep,1,17,45603,1,No,
+E0191,46,Female,HR,Recruiter,3,19,66382,5,No,
+E0192,30,Male,Finance,Accountant,2,10,106657,1,Yes,2023-01-14
+E0193,47,Other,Operations,Operations Manager,5,19,43737,3,Yes,2023-04-20
+E0194,36,Female,Operations,Logistics Coordinator,5,14,93517,1,No,
+E0195,56,Female,Finance,Accountant,2,17,42729,5,No,
+E0196,44,Female,HR,HR Executive,1,18,96959,1,No,
+E0197,59,Male,Operations,Logistics Coordinator,4,5,44371,3,Yes,2023-06-25
+E0198,45,Other,Sales,Sales Rep,4,5,105290,2,Yes,2023-04-06
+E0199,30,Male,Finance,Accountant,5,14,75516,5,No,
+E0200,50,Other,Finance,Financial Analyst,1,14,82747,4,Yes,2023-02-17
+E0201,34,Other,Finance,Accountant,3,1,38130,4,Yes,2023-12-14
+E0202,57,Female,Sales,Account Manager,3,12,82028,4,Yes,2023-06-02
+E0203,58,Female,Sales,Account Manager,4,18,99093,3,No,
+E0204,30,Female,IT,System Admin,3,0,53150,4,No,
+E0205,22,Female,HR,HR Executive,5,18,78260,3,No,
+E0206,44,Male,Finance,Accountant,3,11,67429,1,No,
+E0207,51,Male,HR,HR Executive,3,4,74334,2,No,
+E0208,50,Female,Finance,Accountant,4,3,107394,3,No,
+E0209,30,Male,Operations,Operations Manager,1,10,36395,4,No,
+E0210,29,Other,Operations,Operations Manager,3,10,31497,4,No,
+E0211,30,Female,Finance,Accountant,1,0,37194,2,Yes,2023-05-01
+E0212,45,Other,Finance,Financial Analyst,4,9,84792,1,No,
+E0213,31,Female,Operations,Logistics Coordinator,2,12,55186,1,No,
+E0214,25,Other,Sales,Sales Rep,2,8,32938,5,Yes,2023-02-07
+E0215,36,Male,Operations,Logistics Coordinator,2,4,61471,3,No,
+E0216,39,Female,Operations,Logistics Coordinator,3,4,60413,2,No,
+E0217,30,Male,Operations,Logistics Coordinator,1,1,71858,1,No,
+E0218,31,Male,IT,System Admin,4,2,41522,1,No,
+E0219,57,Other,Finance,Accountant,1,0,72624,3,No,
+E0220,41,Male,Operations,Logistics Coordinator,4,0,40805,5,No,
+E0221,41,Other,HR,Recruiter,2,2,45335,5,No,
+E0222,41,Female,Operations,Operations Manager,3,14,44417,5,No,
+E0223,28,Other,IT,System Admin,2,12,94992,4,No,
+E0224,26,Female,Operations,Logistics Coordinator,2,7,61012,5,No,
+E0225,53,Other,Finance,Financial Analyst,3,5,43036,4,No,
+E0226,45,Female,Finance,Accountant,2,14,87436,5,No,
+E0227,54,Male,Finance,Accountant,2,14,54436,1,Yes,2023-10-20
+E0228,26,Other,Operations,Operations Manager,2,8,93041,4,Yes,2023-02-22
+E0229,36,Other,IT,System Admin,2,12,74646,1,No,
+E0230,50,Female,IT,Developer,1,1,59907,3,Yes,2023-02-14
+E0231,42,Female,Sales,Sales Rep,4,5,40021,3,No,
+E0232,58,Female,HR,Recruiter,1,14,66036,4,No,
+E0233,34,Male,Finance,Financial Analyst,4,14,48190,3,Yes,2023-06-27
+E0234,26,Female,IT,System Admin,1,1,34282,5,No,
+E0235,41,Female,Finance,Financial Analyst,3,17,114548,2,No,
+E0236,48,Female,HR,Recruiter,4,20,39006,5,No,
+E0237,49,Male,IT,System Admin,5,13,90056,3,No,
+E0238,33,Other,Sales,Account Manager,5,19,113307,5,No,
+E0239,57,Other,IT,System Admin,1,14,114772,5,Yes,2023-01-05
+E0240,44,Other,Sales,Sales Rep,2,12,77744,2,No,
+E0241,57,Other,Finance,Financial Analyst,5,8,110589,3,No,
+E0242,27,Male,Finance,Financial Analyst,1,13,81653,1,No,
+E0243,50,Male,Finance,Financial Analyst,5,7,51897,3,No,
+E0244,41,Female,Sales,Account Manager,5,0,111634,1,Yes,2023-10-17
+E0245,48,Female,Finance,Accountant,4,2,116960,4,No,
+E0246,37,Female,Sales,Account Manager,2,20,34388,2,Yes,2023-10-10
+E0247,29,Female,Sales,Sales Rep,4,19,115474,2,No,
+E0248,50,Other,Operations,Logistics Coordinator,5,18,97071,2,Yes,2023-11-17
+E0249,55,Other,Operations,Logistics Coordinator,1,14,66186,1,No,
+E0250,49,Other,Sales,Sales Rep,2,14,44500,3,No,
+E0251,39,Male,Operations,Operations Manager,3,0,79956,5,No,
+E0252,57,Male,Finance,Accountant,5,4,50626,3,No,
+E0253,38,Male,HR,Recruiter,5,1,43981,4,No,
+E0254,60,Male,Sales,Sales Rep,3,11,100750,2,No,
+E0255,60,Male,Finance,Accountant,3,0,75628,2,No,
+E0256,22,Other,HR,Recruiter,1,5,59585,1,Yes,2023-01-05
+E0257,29,Female,Sales,Account Manager,4,8,104114,4,No,
+E0258,23,Female,Sales,Sales Rep,3,7,76240,4,No,
+E0259,41,Other,HR,Recruiter,4,19,107548,5,No,
+E0260,32,Other,HR,Recruiter,3,1,35726,1,Yes,2023-07-08
+E0261,48,Female,Finance,Financial Analyst,1,11,69711,3,No,
+E0262,38,Female,Sales,Sales Rep,4,8,44704,3,No,
+E0263,22,Other,IT,Developer,4,11,111066,3,No,
+E0264,56,Male,IT,Developer,1,0,105468,5,No,
+E0265,60,Other,IT,Developer,4,13,113530,4,No,
+E0266,30,Female,HR,Recruiter,3,15,89989,3,No,
+E0267,24,Female,Operations,Operations Manager,4,4,63247,3,Yes,2023-12-18
+E0268,52,Female,Operations,Operations Manager,4,6,49814,2,Yes,2023-07-21
+E0269,36,Other,IT,System Admin,1,1,86538,5,No,
+E0270,49,Other,Sales,Account Manager,2,19,99936,3,Yes,2023-08-24
+E0271,43,Other,IT,Developer,2,7,98247,1,No,
+E0272,24,Other,Finance,Accountant,3,13,93919,3,No,
+E0273,22,Female,Finance,Accountant,2,5,88542,2,No,
+E0274,49,Male,IT,System Admin,1,2,78735,1,No,
+E0275,39,Female,IT,Developer,3,2,61994,5,No,
+E0276,30,Female,HR,Recruiter,2,14,58862,3,No,
+E0277,34,Other,Operations,Operations Manager,5,12,98413,1,Yes,2023-03-28
+E0278,51,Female,Finance,Financial Analyst,5,20,106413,3,No,
+E0279,22,Female,Finance,Accountant,1,9,68757,2,No,
+E0280,58,Male,Finance,Accountant,1,7,37169,2,No,
+E0281,32,Female,Finance,Financial Analyst,2,6,88665,1,No,
+E0282,31,Other,IT,Developer,4,12,34880,3,Yes,2023-07-27
+E0283,43,Female,Finance,Financial Analyst,5,1,87745,1,No,
+E0284,29,Female,Sales,Sales Rep,2,7,106890,3,No,
+E0285,52,Female,IT,Developer,2,18,44943,4,No,
+E0286,34,Other,HR,HR Executive,3,1,76396,4,No,
+E0287,25,Female,Sales,Account Manager,2,4,55788,1,No,
+E0288,42,Female,Operations,Logistics Coordinator,5,15,48920,5,No,
+E0289,23,Other,IT,System Admin,1,3,40523,2,No,
+E0290,28,Male,IT,System Admin,2,8,106739,5,No,
+E0291,31,Other,HR,HR Executive,3,18,45392,4,Yes,2023-01-09
+E0292,55,Female,HR,HR Executive,2,7,87081,1,No,
+E0293,48,Male,Sales,Sales Rep,2,0,76135,3,No,
+E0294,26,Male,Operations,Logistics Coordinator,4,7,54031,1,No,
+E0295,55,Male,HR,Recruiter,1,8,105729,4,Yes,2023-02-09
+E0296,48,Other,Operations,Logistics Coordinator,4,19,99546,5,No,
+E0297,47,Male,Operations,Logistics Coordinator,5,19,35471,3,No,
+E0298,26,Other,HR,HR Executive,5,9,60106,3,No,
+E0299,57,Other,Sales,Account Manager,3,18,71189,3,No,
+E0300,32,Female,Finance,Accountant,5,2,88336,4,Yes,2023-08-02
