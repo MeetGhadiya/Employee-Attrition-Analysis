@@ -1,0 +1,301 @@
+Order ID,Order Date,Region,Category,Sub-Category,Product,Quantity,Unit Price,Sales
+ORD-1000,2023-01-26,South,Furniture,Tables,Conference Table,2,130,260
+ORD-1001,2023-08-08,East,Office Supplies,Binders,3-Ring Binder,8,210,1680
+ORD-1002,2023-03-13,East,Office Supplies,Paper,Notebook,1,253,253
+ORD-1003,2023-11-08,West,Office Supplies,Paper,Copy Paper,3,122,366
+ORD-1004,2023-12-11,South,Technology,Phones,Desk Phone,9,84,756
+ORD-1005,2023-04-18,East,Office Supplies,Paper,Notebook,10,63,630
+ORD-1006,2023-06-27,South,Furniture,Tables,Writing Desk,3,239,717
+ORD-1007,2023-03-31,North,Office Supplies,Binders,Presentation Binder,8,61,488
+ORD-1008,2023-07-02,North,Office Supplies,Paper,Notebook,7,59,413
+ORD-1009,2023-01-14,South,Office Supplies,Paper,Notebook,6,280,1680
+ORD-1010,2023-10-17,East,Technology,Phones,Desk Phone,8,57,456
+ORD-1011,2023-01-25,East,Technology,Phones,Desk Phone,5,63,315
+ORD-1012,2023-05-21,East,Office Supplies,Binders,3-Ring Binder,6,95,570
+ORD-1013,2023-08-28,South,Technology,Phones,Smartphone,6,51,306
+ORD-1014,2023-09-14,East,Furniture,Tables,Writing Desk,8,39,312
+ORD-1015,2023-11-19,North,Technology,Phones,Smartphone,10,41,410
+ORD-1016,2023-02-08,West,Office Supplies,Paper,Copy Paper,8,194,1552
+ORD-1017,2023-03-30,South,Furniture,Tables,Conference Table,3,245,735
+ORD-1018,2023-10-16,North,Office Supplies,Binders,Presentation Binder,8,260,2080
+ORD-1019,2023-03-31,North,Technology,Phones,Desk Phone,9,52,468
+ORD-1020,2023-10-30,West,Technology,Phones,Desk Phone,10,259,2590
+ORD-1021,2023-05-07,South,Office Supplies,Paper,Notebook,2,86,172
+ORD-1022,2023-03-06,East,Furniture,Chairs,Executive Chair,10,46,460
+ORD-1023,2023-10-12,North,Technology,Phones,Desk Phone,2,251,502
+ORD-1024,2023-06-18,West,Office Supplies,Binders,Presentation Binder,10,147,1470
+ORD-1025,2023-10-04,West,Furniture,Chairs,Executive Chair,9,105,945
+ORD-1026,2023-04-04,East,Technology,Phones,Desk Phone,6,104,624
+ORD-1027,2023-12-03,North,Technology,Accessories,Mouse,5,208,1040
+ORD-1028,2023-11-26,East,Office Supplies,Binders,3-Ring Binder,8,218,1744
+ORD-1029,2023-11-17,West,Technology,Accessories,Keyboard,2,284,568
+ORD-1030,2023-03-04,East,Office Supplies,Binders,3-Ring Binder,1,184,184
+ORD-1031,2023-07-19,West,Furniture,Tables,Writing Desk,6,116,696
+ORD-1032,2023-02-28,East,Furniture,Tables,Writing Desk,1,185,185
+ORD-1033,2023-10-02,West,Office Supplies,Binders,Presentation Binder,8,50,400
+ORD-1034,2023-02-03,West,Furniture,Tables,Conference Table,5,270,1350
+ORD-1035,2023-03-04,West,Furniture,Chairs,Executive Chair,5,235,1175
+ORD-1036,2023-11-03,South,Technology,Phones,Smartphone,7,175,1225
+ORD-1037,2023-07-10,North,Furniture,Chairs,Executive Chair,3,49,147
+ORD-1038,2023-11-01,East,Furniture,Tables,Writing Desk,1,230,230
+ORD-1039,2023-01-20,East,Office Supplies,Binders,3-Ring Binder,6,105,630
+ORD-1040,2023-03-11,South,Furniture,Tables,Writing Desk,6,86,516
+ORD-1041,2023-05-24,East,Office Supplies,Paper,Copy Paper,5,106,530
+ORD-1042,2023-05-19,East,Office Supplies,Binders,Presentation Binder,3,272,816
+ORD-1043,2023-02-10,North,Technology,Phones,Desk Phone,8,85,680
+ORD-1044,2023-05-22,North,Technology,Accessories,Keyboard,8,153,1224
+ORD-1045,2023-06-11,West,Furniture,Chairs,Executive Chair,3,277,831
+ORD-1046,2023-01-19,South,Office Supplies,Paper,Notebook,1,238,238
+ORD-1047,2023-01-18,West,Technology,Accessories,Mouse,2,247,494
+ORD-1048,2023-05-28,West,Office Supplies,Binders,Presentation Binder,1,258,258
+ORD-1049,2023-10-05,South,Office Supplies,Binders,Presentation Binder,9,102,918
+ORD-1050,2023-01-27,South,Office Supplies,Paper,Copy Paper,2,215,430
+ORD-1051,2023-03-05,North,Technology,Accessories,Mouse,5,274,1370
+ORD-1052,2023-12-10,North,Furniture,Tables,Conference Table,6,70,420
+ORD-1053,2023-07-23,East,Technology,Accessories,Mouse,6,205,1230
+ORD-1054,2023-06-10,South,Technology,Accessories,Keyboard,6,46,276
+ORD-1055,2023-03-26,South,Technology,Phones,Smartphone,4,77,308
+ORD-1056,2023-07-03,East,Furniture,Tables,Writing Desk,1,82,82
+ORD-1057,2023-06-24,North,Office Supplies,Binders,Presentation Binder,6,90,540
+ORD-1058,2023-03-01,North,Office Supplies,Binders,Presentation Binder,4,271,1084
+ORD-1059,2023-04-29,East,Technology,Accessories,Keyboard,10,212,2120
+ORD-1060,2023-10-03,West,Technology,Accessories,Keyboard,1,115,115
+ORD-1061,2023-10-21,South,Furniture,Chairs,Executive Chair,3,199,597
+ORD-1062,2023-10-17,West,Furniture,Tables,Conference Table,5,44,220
+ORD-1063,2023-01-30,West,Technology,Accessories,Keyboard,7,189,1323
+ORD-1064,2023-02-18,South,Furniture,Chairs,Executive Chair,10,76,760
+ORD-1065,2023-07-10,South,Technology,Phones,Desk Phone,10,183,1830
+ORD-1066,2023-09-26,North,Office Supplies,Paper,Copy Paper,2,237,474
+ORD-1067,2023-08-11,West,Furniture,Tables,Writing Desk,9,273,2457
+ORD-1068,2023-05-02,North,Technology,Phones,Desk Phone,10,87,870
+ORD-1069,2023-05-24,East,Furniture,Chairs,Executive Chair,7,246,1722
+ORD-1070,2023-01-21,South,Technology,Phones,Desk Phone,3,155,465
+ORD-1071,2023-09-22,East,Furniture,Chairs,Task Chair,4,194,776
+ORD-1072,2023-03-21,East,Furniture,Tables,Writing Desk,4,111,444
+ORD-1073,2023-03-30,North,Technology,Accessories,Keyboard,6,268,1608
+ORD-1074,2023-07-17,East,Technology,Phones,Smartphone,4,225,900
+ORD-1075,2023-09-07,East,Furniture,Chairs,Executive Chair,5,222,1110
+ORD-1076,2023-01-18,South,Furniture,Tables,Writing Desk,7,32,224
+ORD-1077,2023-08-31,East,Furniture,Tables,Conference Table,7,107,749
+ORD-1078,2023-08-08,North,Technology,Accessories,Mouse,1,86,86
+ORD-1079,2023-02-28,West,Technology,Phones,Desk Phone,9,88,792
+ORD-1080,2023-08-08,West,Office Supplies,Binders,3-Ring Binder,9,149,1341
+ORD-1081,2023-10-25,West,Office Supplies,Paper,Copy Paper,2,120,240
+ORD-1082,2023-06-16,North,Furniture,Tables,Conference Table,5,109,545
+ORD-1083,2023-05-23,South,Technology,Phones,Desk Phone,9,143,1287
+ORD-1084,2023-01-13,North,Office Supplies,Paper,Notebook,4,152,608
+ORD-1085,2023-04-04,East,Furniture,Chairs,Executive Chair,7,128,896
+ORD-1086,2023-02-10,North,Technology,Phones,Desk Phone,7,266,1862
+ORD-1087,2023-08-22,West,Technology,Accessories,Keyboard,6,292,1752
+ORD-1088,2023-04-20,North,Office Supplies,Binders,3-Ring Binder,9,191,1719
+ORD-1089,2023-06-15,South,Technology,Accessories,Mouse,4,166,664
+ORD-1090,2023-04-22,South,Furniture,Tables,Writing Desk,7,206,1442
+ORD-1091,2023-11-21,West,Office Supplies,Paper,Copy Paper,3,88,264
+ORD-1092,2023-10-11,West,Office Supplies,Paper,Copy Paper,5,70,350
+ORD-1093,2023-09-29,West,Technology,Accessories,Mouse,10,150,1500
+ORD-1094,2023-09-29,East,Office Supplies,Binders,Presentation Binder,6,181,1086
+ORD-1095,2023-12-16,South,Furniture,Tables,Conference Table,7,101,707
+ORD-1096,2023-01-12,West,Furniture,Chairs,Task Chair,6,83,498
+ORD-1097,2023-10-14,North,Office Supplies,Binders,Presentation Binder,4,76,304
+ORD-1098,2023-04-16,East,Office Supplies,Binders,3-Ring Binder,4,74,296
+ORD-1099,2023-09-01,East,Technology,Accessories,Keyboard,7,170,1190
+ORD-1100,2023-05-15,South,Office Supplies,Binders,Presentation Binder,3,28,84
+ORD-1101,2023-04-16,North,Office Supplies,Binders,3-Ring Binder,5,91,455
+ORD-1102,2023-10-24,West,Furniture,Tables,Conference Table,6,161,966
+ORD-1103,2023-10-20,West,Technology,Accessories,Mouse,5,133,665
+ORD-1104,2023-01-01,West,Office Supplies,Binders,Presentation Binder,6,266,1596
+ORD-1105,2023-09-02,South,Technology,Accessories,Keyboard,2,100,200
+ORD-1106,2023-05-03,East,Office Supplies,Paper,Notebook,3,264,792
+ORD-1107,2023-09-30,East,Office Supplies,Paper,Copy Paper,10,200,2000
+ORD-1108,2023-05-01,South,Furniture,Tables,Writing Desk,1,166,166
+ORD-1109,2023-02-25,East,Technology,Phones,Desk Phone,9,191,1719
+ORD-1110,2023-08-23,North,Furniture,Tables,Writing Desk,6,260,1560
+ORD-1111,2023-04-14,East,Office Supplies,Binders,Presentation Binder,5,70,350
+ORD-1112,2023-05-22,South,Technology,Phones,Smartphone,8,268,2144
+ORD-1113,2023-12-26,West,Furniture,Chairs,Task Chair,3,180,540
+ORD-1114,2023-07-24,South,Furniture,Tables,Conference Table,10,136,1360
+ORD-1115,2023-12-14,East,Office Supplies,Paper,Copy Paper,1,282,282
+ORD-1116,2023-03-09,North,Technology,Phones,Desk Phone,10,275,2750
+ORD-1117,2023-03-02,East,Office Supplies,Binders,3-Ring Binder,3,98,294
+ORD-1118,2023-12-01,West,Furniture,Chairs,Executive Chair,8,207,1656
+ORD-1119,2023-03-28,South,Office Supplies,Binders,Presentation Binder,3,264,792
+ORD-1120,2023-09-29,West,Technology,Phones,Smartphone,10,279,2790
+ORD-1121,2023-11-26,South,Furniture,Tables,Conference Table,4,191,764
+ORD-1122,2023-02-22,East,Furniture,Chairs,Task Chair,4,76,304
+ORD-1123,2023-11-07,East,Furniture,Chairs,Task Chair,2,89,178
+ORD-1124,2023-01-18,East,Furniture,Tables,Conference Table,10,152,1520
+ORD-1125,2023-03-29,South,Office Supplies,Binders,Presentation Binder,10,194,1940
+ORD-1126,2023-10-12,North,Technology,Accessories,Mouse,8,93,744
+ORD-1127,2023-09-09,South,Office Supplies,Paper,Copy Paper,4,286,1144
+ORD-1128,2023-01-15,West,Office Supplies,Binders,3-Ring Binder,10,211,2110
+ORD-1129,2023-10-27,South,Office Supplies,Paper,Copy Paper,8,292,2336
+ORD-1130,2023-04-18,North,Furniture,Tables,Conference Table,3,257,771
+ORD-1131,2023-02-12,North,Office Supplies,Paper,Copy Paper,1,247,247
+ORD-1132,2023-07-28,South,Office Supplies,Binders,Presentation Binder,5,169,845
+ORD-1133,2023-01-19,North,Technology,Accessories,Keyboard,5,235,1175
+ORD-1134,2023-07-05,North,Furniture,Chairs,Task Chair,4,46,184
+ORD-1135,2023-07-28,West,Furniture,Chairs,Task Chair,1,71,71
+ORD-1136,2023-03-16,North,Office Supplies,Paper,Notebook,8,130,1040
+ORD-1137,2023-04-07,North,Technology,Accessories,Mouse,10,22,220
+ORD-1138,2023-07-28,North,Furniture,Chairs,Executive Chair,6,287,1722
+ORD-1139,2023-11-02,East,Technology,Phones,Desk Phone,7,96,672
+ORD-1140,2023-03-16,North,Office Supplies,Binders,3-Ring Binder,3,92,276
+ORD-1141,2023-04-27,East,Office Supplies,Binders,3-Ring Binder,5,39,195
+ORD-1142,2023-05-24,South,Technology,Accessories,Keyboard,5,156,780
+ORD-1143,2023-05-25,South,Technology,Accessories,Keyboard,4,264,1056
+ORD-1144,2023-09-22,North,Technology,Accessories,Keyboard,10,275,2750
+ORD-1145,2023-07-05,East,Technology,Phones,Smartphone,6,77,462
+ORD-1146,2023-08-19,East,Office Supplies,Paper,Notebook,7,148,1036
+ORD-1147,2023-04-18,South,Office Supplies,Paper,Notebook,1,126,126
+ORD-1148,2023-10-26,South,Office Supplies,Paper,Notebook,6,161,966
+ORD-1149,2023-10-16,East,Office Supplies,Paper,Notebook,4,215,860
+ORD-1150,2023-04-02,East,Office Supplies,Binders,3-Ring Binder,10,157,1570
+ORD-1151,2023-01-28,West,Technology,Phones,Desk Phone,6,166,996
+ORD-1152,2023-06-18,South,Technology,Accessories,Mouse,7,98,686
+ORD-1153,2023-10-17,East,Furniture,Chairs,Task Chair,6,199,1194
+ORD-1154,2023-12-25,West,Technology,Phones,Smartphone,10,22,220
+ORD-1155,2023-06-11,East,Office Supplies,Paper,Copy Paper,3,30,90
+ORD-1156,2023-11-24,South,Technology,Phones,Desk Phone,9,140,1260
+ORD-1157,2023-09-12,North,Technology,Accessories,Mouse,3,152,456
+ORD-1158,2023-07-24,South,Furniture,Chairs,Executive Chair,8,227,1816
+ORD-1159,2023-11-11,West,Furniture,Chairs,Task Chair,1,126,126
+ORD-1160,2023-04-15,East,Technology,Phones,Desk Phone,4,65,260
+ORD-1161,2023-02-23,West,Office Supplies,Paper,Notebook,10,221,2210
+ORD-1162,2023-05-16,East,Technology,Phones,Smartphone,4,157,628
+ORD-1163,2023-12-14,East,Furniture,Chairs,Task Chair,5,28,140
+ORD-1164,2023-08-14,North,Office Supplies,Binders,Presentation Binder,3,43,129
+ORD-1165,2023-08-10,East,Furniture,Chairs,Task Chair,8,65,520
+ORD-1166,2023-06-21,East,Furniture,Chairs,Executive Chair,6,144,864
+ORD-1167,2023-03-28,North,Office Supplies,Paper,Copy Paper,10,181,1810
+ORD-1168,2023-09-27,East,Furniture,Chairs,Executive Chair,4,215,860
+ORD-1169,2023-08-11,South,Office Supplies,Paper,Copy Paper,1,32,32
+ORD-1170,2023-11-30,West,Furniture,Chairs,Task Chair,5,112,560
+ORD-1171,2023-12-04,West,Technology,Phones,Smartphone,2,56,112
+ORD-1172,2023-10-25,North,Furniture,Tables,Writing Desk,9,105,945
+ORD-1173,2023-06-22,East,Office Supplies,Binders,Presentation Binder,8,34,272
+ORD-1174,2023-09-08,North,Technology,Accessories,Mouse,9,255,2295
+ORD-1175,2023-03-02,South,Furniture,Tables,Conference Table,10,176,1760
+ORD-1176,2023-06-01,West,Office Supplies,Paper,Notebook,5,105,525
+ORD-1177,2023-06-12,South,Office Supplies,Binders,Presentation Binder,1,194,194
+ORD-1178,2023-11-26,South,Furniture,Tables,Writing Desk,4,194,776
+ORD-1179,2023-02-25,East,Office Supplies,Binders,3-Ring Binder,4,210,840
+ORD-1180,2023-08-28,West,Office Supplies,Binders,Presentation Binder,4,66,264
+ORD-1181,2023-04-26,West,Office Supplies,Binders,3-Ring Binder,8,233,1864
+ORD-1182,2023-05-14,West,Office Supplies,Binders,3-Ring Binder,9,297,2673
+ORD-1183,2023-02-07,West,Office Supplies,Binders,3-Ring Binder,2,280,560
+ORD-1184,2023-07-07,East,Furniture,Chairs,Executive Chair,8,241,1928
+ORD-1185,2023-11-17,North,Technology,Phones,Smartphone,1,257,257
+ORD-1186,2023-09-06,East,Technology,Phones,Desk Phone,2,214,428
+ORD-1187,2023-08-26,South,Furniture,Chairs,Executive Chair,1,297,297
+ORD-1188,2023-01-17,East,Office Supplies,Binders,3-Ring Binder,10,192,1920
+ORD-1189,2023-08-23,South,Technology,Accessories,Mouse,7,201,1407
+ORD-1190,2023-01-06,East,Technology,Accessories,Mouse,1,188,188
+ORD-1191,2023-06-21,East,Furniture,Chairs,Executive Chair,4,59,236
+ORD-1192,2023-09-15,West,Technology,Accessories,Mouse,8,194,1552
+ORD-1193,2023-05-28,East,Office Supplies,Binders,Presentation Binder,9,80,720
+ORD-1194,2023-11-22,North,Technology,Accessories,Mouse,2,61,122
+ORD-1195,2023-09-18,South,Technology,Phones,Desk Phone,5,209,1045
+ORD-1196,2023-11-19,East,Technology,Accessories,Mouse,8,246,1968
+ORD-1197,2023-12-10,South,Office Supplies,Binders,3-Ring Binder,8,65,520
+ORD-1198,2023-12-26,West,Technology,Accessories,Keyboard,5,219,1095
+ORD-1199,2023-04-27,North,Technology,Phones,Smartphone,9,59,531
+ORD-1200,2023-06-28,North,Technology,Accessories,Keyboard,4,79,316
+ORD-1201,2023-12-18,West,Office Supplies,Binders,3-Ring Binder,4,178,712
+ORD-1202,2023-08-03,North,Furniture,Tables,Conference Table,2,278,556
+ORD-1203,2023-10-07,South,Technology,Phones,Smartphone,5,255,1275
+ORD-1204,2023-07-29,East,Office Supplies,Binders,Presentation Binder,5,71,355
+ORD-1205,2023-09-28,West,Office Supplies,Paper,Copy Paper,4,161,644
+ORD-1206,2023-01-25,North,Technology,Accessories,Mouse,3,200,600
+ORD-1207,2023-05-30,North,Furniture,Tables,Conference Table,8,238,1904
+ORD-1208,2023-08-30,East,Furniture,Chairs,Executive Chair,3,48,144
+ORD-1209,2023-07-02,West,Technology,Phones,Smartphone,9,110,990
+ORD-1210,2023-11-08,South,Office Supplies,Binders,Presentation Binder,9,84,756
+ORD-1211,2023-06-09,East,Office Supplies,Binders,3-Ring Binder,3,266,798
+ORD-1212,2023-12-07,North,Furniture,Chairs,Task Chair,5,219,1095
+ORD-1213,2023-06-21,West,Office Supplies,Paper,Copy Paper,4,235,940
+ORD-1214,2023-01-25,East,Furniture,Tables,Conference Table,1,74,74
+ORD-1215,2023-07-07,East,Furniture,Chairs,Task Chair,9,41,369
+ORD-1216,2023-10-31,West,Technology,Phones,Smartphone,5,244,1220
+ORD-1217,2023-02-21,North,Office Supplies,Binders,Presentation Binder,5,207,1035
+ORD-1218,2023-08-02,West,Technology,Phones,Desk Phone,4,80,320
+ORD-1219,2023-08-14,South,Furniture,Chairs,Executive Chair,8,237,1896
+ORD-1220,2023-04-15,East,Office Supplies,Paper,Copy Paper,2,197,394
+ORD-1221,2023-02-25,East,Furniture,Tables,Writing Desk,3,231,693
+ORD-1222,2023-04-28,South,Furniture,Chairs,Executive Chair,10,97,970
+ORD-1223,2023-02-07,West,Technology,Accessories,Mouse,9,89,801
+ORD-1224,2023-10-05,South,Office Supplies,Binders,3-Ring Binder,5,253,1265
+ORD-1225,2023-09-10,South,Technology,Accessories,Mouse,4,36,144
+ORD-1226,2023-02-24,East,Technology,Accessories,Keyboard,6,112,672
+ORD-1227,2023-03-19,North,Technology,Accessories,Mouse,8,298,2384
+ORD-1228,2023-05-30,West,Office Supplies,Binders,Presentation Binder,10,165,1650
+ORD-1229,2023-03-30,East,Office Supplies,Paper,Notebook,3,23,69
+ORD-1230,2023-09-29,East,Office Supplies,Paper,Copy Paper,5,72,360
+ORD-1231,2023-05-24,East,Office Supplies,Paper,Copy Paper,7,267,1869
+ORD-1232,2023-04-24,North,Furniture,Tables,Conference Table,6,40,240
+ORD-1233,2023-09-07,North,Office Supplies,Paper,Copy Paper,1,246,246
+ORD-1234,2023-02-10,South,Technology,Accessories,Keyboard,3,99,297
+ORD-1235,2023-11-12,East,Office Supplies,Binders,3-Ring Binder,2,31,62
+ORD-1236,2023-12-06,West,Office Supplies,Paper,Notebook,8,73,584
+ORD-1237,2023-10-17,South,Office Supplies,Paper,Notebook,8,117,936
+ORD-1238,2023-03-24,West,Office Supplies,Paper,Copy Paper,5,190,950
+ORD-1239,2023-04-17,North,Office Supplies,Paper,Notebook,8,145,1160
+ORD-1240,2023-03-05,West,Furniture,Tables,Writing Desk,6,211,1266
+ORD-1241,2023-11-17,North,Office Supplies,Binders,3-Ring Binder,1,119,119
+ORD-1242,2023-01-10,West,Office Supplies,Paper,Notebook,8,187,1496
+ORD-1243,2023-05-22,North,Office Supplies,Paper,Copy Paper,3,76,228
+ORD-1244,2023-05-13,North,Office Supplies,Paper,Notebook,2,281,562
+ORD-1245,2023-07-11,East,Office Supplies,Binders,Presentation Binder,5,158,790
+ORD-1246,2023-02-05,West,Furniture,Tables,Writing Desk,5,44,220
+ORD-1247,2023-08-14,South,Furniture,Chairs,Executive Chair,2,57,114
+ORD-1248,2023-05-04,South,Office Supplies,Binders,Presentation Binder,6,278,1668
+ORD-1249,2023-01-18,East,Technology,Accessories,Mouse,8,160,1280
+ORD-1250,2023-11-26,East,Furniture,Tables,Conference Table,10,167,1670
+ORD-1251,2023-11-19,South,Office Supplies,Paper,Notebook,9,240,2160
+ORD-1252,2023-03-26,East,Office Supplies,Paper,Copy Paper,5,177,885
+ORD-1253,2023-04-01,North,Office Supplies,Paper,Notebook,4,237,948
+ORD-1254,2023-11-02,North,Office Supplies,Binders,3-Ring Binder,7,118,826
+ORD-1255,2023-03-11,East,Technology,Accessories,Mouse,7,161,1127
+ORD-1256,2023-07-10,East,Office Supplies,Binders,3-Ring Binder,10,205,2050
+ORD-1257,2023-02-21,East,Office Supplies,Binders,3-Ring Binder,10,134,1340
+ORD-1258,2023-09-23,South,Technology,Phones,Smartphone,3,205,615
+ORD-1259,2023-01-17,North,Technology,Phones,Smartphone,2,86,172
+ORD-1260,2023-11-06,East,Furniture,Chairs,Task Chair,4,163,652
+ORD-1261,2023-09-19,West,Office Supplies,Paper,Notebook,6,290,1740
+ORD-1262,2023-06-27,West,Office Supplies,Paper,Copy Paper,9,139,1251
+ORD-1263,2023-04-19,South,Furniture,Tables,Writing Desk,2,226,452
+ORD-1264,2023-11-07,North,Office Supplies,Binders,Presentation Binder,5,280,1400
+ORD-1265,2023-09-30,North,Furniture,Chairs,Task Chair,8,195,1560
+ORD-1266,2023-11-02,West,Furniture,Chairs,Task Chair,5,195,975
+ORD-1267,2023-12-13,East,Technology,Accessories,Keyboard,6,256,1536
+ORD-1268,2023-06-09,West,Furniture,Chairs,Executive Chair,3,112,336
+ORD-1269,2023-08-11,East,Furniture,Tables,Conference Table,5,287,1435
+ORD-1270,2023-06-14,South,Technology,Phones,Smartphone,2,41,82
+ORD-1271,2023-03-28,East,Office Supplies,Binders,Presentation Binder,8,178,1424
+ORD-1272,2023-10-11,West,Office Supplies,Paper,Copy Paper,6,96,576
+ORD-1273,2023-09-25,North,Office Supplies,Paper,Notebook,8,85,680
+ORD-1274,2023-01-26,North,Furniture,Chairs,Executive Chair,2,145,290
+ORD-1275,2023-12-20,North,Furniture,Tables,Conference Table,9,101,909
+ORD-1276,2023-01-06,East,Technology,Accessories,Keyboard,3,186,558
+ORD-1277,2023-05-23,North,Office Supplies,Binders,Presentation Binder,9,41,369
+ORD-1278,2023-10-06,North,Furniture,Chairs,Task Chair,9,53,477
+ORD-1279,2023-05-21,West,Office Supplies,Binders,Presentation Binder,3,189,567
+ORD-1280,2023-08-19,East,Technology,Phones,Smartphone,9,108,972
+ORD-1281,2023-05-16,North,Technology,Phones,Desk Phone,7,182,1274
+ORD-1282,2023-09-07,West,Furniture,Tables,Conference Table,6,95,570
+ORD-1283,2023-04-10,East,Furniture,Tables,Conference Table,3,31,93
+ORD-1284,2023-08-09,North,Furniture,Chairs,Task Chair,1,171,171
+ORD-1285,2023-03-05,South,Technology,Phones,Smartphone,3,252,756
+ORD-1286,2023-07-14,East,Furniture,Tables,Conference Table,4,284,1136
+ORD-1287,2023-10-12,West,Furniture,Chairs,Task Chair,7,177,1239
+ORD-1288,2023-06-17,East,Furniture,Chairs,Executive Chair,6,267,1602
+ORD-1289,2023-11-17,South,Office Supplies,Binders,Presentation Binder,7,273,1911
+ORD-1290,2023-09-15,South,Technology,Phones,Smartphone,3,285,855
+ORD-1291,2023-02-27,North,Furniture,Chairs,Task Chair,7,258,1806
+ORD-1292,2023-05-11,South,Furniture,Chairs,Task Chair,9,238,2142
+ORD-1293,2023-03-25,West,Furniture,Chairs,Task Chair,4,265,1060
+ORD-1294,2023-07-04,North,Technology,Accessories,Keyboard,7,253,1771
+ORD-1295,2023-06-22,South,Technology,Accessories,Keyboard,9,60,540
+ORD-1296,2023-11-14,South,Office Supplies,Paper,Copy Paper,4,77,308
+ORD-1297,2023-03-20,East,Technology,Phones,Smartphone,2,220,440
+ORD-1298,2023-07-30,West,Office Supplies,Binders,3-Ring Binder,4,156,624
+ORD-1299,2023-03-04,South,Technology,Accessories,Mouse,8,191,1528
