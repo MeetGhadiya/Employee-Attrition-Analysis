@@ -1,0 +1,341 @@
+Lead ID,Stage,Stage Date,Revenue,Source,Region,Converted
+LEAD-0001,Awareness,2024-04-30,0,Email,East,No
+LEAD-0001,Interest,2024-01-23,0,Email,East,No
+LEAD-0002,Awareness,2024-02-26,0,Website,West,No
+LEAD-0002,Interest,2024-01-10,0,Website,West,No
+LEAD-0002,Consideration,2024-03-16,0,Website,West,No
+LEAD-0003,Awareness,2024-03-01,0,Referral,West,No
+LEAD-0003,Interest,2024-01-16,0,Referral,West,No
+LEAD-0003,Consideration,2024-03-02,0,Referral,West,No
+LEAD-0003,Purchase,2024-04-16,190,Referral,West,Yes
+LEAD-0004,Awareness,2024-04-24,0,Referral,North,No
+LEAD-0005,Awareness,2024-03-25,0,Website,East,No
+LEAD-0006,Awareness,2024-02-12,0,Social Media,East,No
+LEAD-0006,Interest,2024-04-07,0,Social Media,East,No
+LEAD-0006,Consideration,2024-03-08,0,Social Media,East,No
+LEAD-0006,Purchase,2024-01-07,255,Social Media,East,Yes
+LEAD-0007,Awareness,2024-03-03,0,Website,South,No
+LEAD-0008,Awareness,2024-04-18,0,Email,North,No
+LEAD-0008,Interest,2024-04-20,0,Email,North,No
+LEAD-0009,Awareness,2024-02-22,0,Ads,West,No
+LEAD-0010,Awareness,2024-04-03,0,Email,North,No
+LEAD-0011,Awareness,2024-03-10,0,Website,North,No
+LEAD-0012,Awareness,2024-04-09,0,Website,West,No
+LEAD-0013,Awareness,2024-01-20,0,Ads,East,No
+LEAD-0014,Awareness,2024-02-20,0,Social Media,West,No
+LEAD-0014,Interest,2024-02-24,0,Social Media,West,No
+LEAD-0015,Awareness,2024-04-01,0,Ads,East,No
+LEAD-0016,Awareness,2024-03-19,0,Social Media,East,No
+LEAD-0016,Interest,2024-03-11,0,Social Media,East,No
+LEAD-0017,Awareness,2024-01-26,0,Website,North,No
+LEAD-0017,Interest,2024-02-24,0,Website,North,No
+LEAD-0017,Consideration,2024-01-14,0,Website,North,No
+LEAD-0018,Awareness,2024-04-08,0,Referral,South,No
+LEAD-0019,Awareness,2024-04-18,0,Ads,South,No
+LEAD-0019,Interest,2024-03-11,0,Ads,South,No
+LEAD-0020,Awareness,2024-01-08,0,Ads,East,No
+LEAD-0021,Awareness,2024-02-29,0,Website,North,No
+LEAD-0022,Awareness,2024-03-19,0,Email,West,No
+LEAD-0023,Awareness,2024-03-07,0,Referral,South,No
+LEAD-0023,Interest,2024-04-02,0,Referral,South,No
+LEAD-0023,Consideration,2024-03-06,0,Referral,South,No
+LEAD-0024,Awareness,2024-04-17,0,Ads,East,No
+LEAD-0025,Awareness,2024-03-25,0,Social Media,South,No
+LEAD-0026,Awareness,2024-02-29,0,Referral,North,No
+LEAD-0027,Awareness,2024-02-01,0,Website,North,No
+LEAD-0028,Awareness,2024-04-16,0,Email,South,No
+LEAD-0029,Awareness,2024-02-11,0,Referral,East,No
+LEAD-0029,Interest,2024-04-21,0,Referral,East,No
+LEAD-0030,Awareness,2024-04-17,0,Referral,East,No
+LEAD-0031,Awareness,2024-01-25,0,Email,North,No
+LEAD-0031,Interest,2024-02-02,0,Email,North,No
+LEAD-0031,Consideration,2024-01-10,0,Email,North,No
+LEAD-0031,Purchase,2024-04-14,981,Email,North,Yes
+LEAD-0032,Awareness,2024-01-16,0,Email,East,No
+LEAD-0032,Interest,2024-04-28,0,Email,East,No
+LEAD-0032,Consideration,2024-04-24,0,Email,East,No
+LEAD-0032,Purchase,2024-04-25,231,Email,East,Yes
+LEAD-0033,Awareness,2024-01-25,0,Social Media,North,No
+LEAD-0033,Interest,2024-01-12,0,Social Media,North,No
+LEAD-0033,Consideration,2024-04-16,0,Social Media,North,No
+LEAD-0034,Awareness,2024-01-01,0,Referral,North,No
+LEAD-0035,Awareness,2024-04-07,0,Email,West,No
+LEAD-0035,Interest,2024-04-03,0,Email,West,No
+LEAD-0035,Consideration,2024-03-08,0,Email,West,No
+LEAD-0036,Awareness,2024-04-13,0,Social Media,North,No
+LEAD-0036,Interest,2024-03-10,0,Social Media,North,No
+LEAD-0037,Awareness,2024-02-24,0,Ads,East,No
+LEAD-0038,Awareness,2024-04-08,0,Email,South,No
+LEAD-0039,Awareness,2024-02-10,0,Website,North,No
+LEAD-0040,Awareness,2024-03-28,0,Social Media,West,No
+LEAD-0040,Interest,2024-04-02,0,Social Media,West,No
+LEAD-0040,Consideration,2024-03-22,0,Social Media,West,No
+LEAD-0040,Purchase,2024-03-20,775,Social Media,West,Yes
+LEAD-0041,Awareness,2024-02-03,0,Referral,South,No
+LEAD-0042,Awareness,2024-02-25,0,Email,North,No
+LEAD-0043,Awareness,2024-02-07,0,Referral,East,No
+LEAD-0044,Awareness,2024-04-02,0,Email,South,No
+LEAD-0044,Interest,2024-04-25,0,Email,South,No
+LEAD-0045,Awareness,2024-02-05,0,Referral,North,No
+LEAD-0046,Awareness,2024-01-10,0,Email,East,No
+LEAD-0047,Awareness,2024-01-17,0,Email,South,No
+LEAD-0048,Awareness,2024-03-02,0,Website,South,No
+LEAD-0048,Interest,2024-04-24,0,Website,South,No
+LEAD-0049,Awareness,2024-01-14,0,Ads,East,No
+LEAD-0049,Interest,2024-03-22,0,Ads,East,No
+LEAD-0050,Awareness,2024-04-17,0,Website,East,No
+LEAD-0050,Interest,2024-02-23,0,Website,East,No
+LEAD-0051,Awareness,2024-04-21,0,Ads,West,No
+LEAD-0052,Awareness,2024-03-20,0,Ads,East,No
+LEAD-0053,Awareness,2024-03-19,0,Social Media,West,No
+LEAD-0054,Awareness,2024-01-06,0,Website,North,No
+LEAD-0055,Awareness,2024-02-21,0,Website,South,No
+LEAD-0055,Interest,2024-01-31,0,Website,South,No
+LEAD-0056,Awareness,2024-01-09,0,Referral,North,No
+LEAD-0057,Awareness,2024-03-12,0,Social Media,North,No
+LEAD-0057,Interest,2024-02-25,0,Social Media,North,No
+LEAD-0057,Consideration,2024-02-01,0,Social Media,North,No
+LEAD-0057,Purchase,2024-01-10,658,Social Media,North,Yes
+LEAD-0058,Awareness,2024-03-28,0,Referral,West,No
+LEAD-0059,Awareness,2024-03-05,0,Website,North,No
+LEAD-0060,Awareness,2024-03-17,0,Email,West,No
+LEAD-0061,Awareness,2024-02-23,0,Ads,East,No
+LEAD-0062,Awareness,2024-01-05,0,Website,East,No
+LEAD-0063,Awareness,2024-04-22,0,Ads,South,No
+LEAD-0063,Interest,2024-04-03,0,Ads,South,No
+LEAD-0063,Consideration,2024-04-08,0,Ads,South,No
+LEAD-0063,Purchase,2024-02-03,679,Ads,South,Yes
+LEAD-0064,Awareness,2024-02-22,0,Social Media,North,No
+LEAD-0064,Interest,2024-01-07,0,Social Media,North,No
+LEAD-0065,Awareness,2024-01-31,0,Referral,North,No
+LEAD-0066,Awareness,2024-04-29,0,Referral,East,No
+LEAD-0066,Interest,2024-02-02,0,Referral,East,No
+LEAD-0066,Consideration,2024-03-06,0,Referral,East,No
+LEAD-0066,Purchase,2024-03-04,698,Referral,East,Yes
+LEAD-0067,Awareness,2024-02-12,0,Email,West,No
+LEAD-0068,Awareness,2024-03-24,0,Referral,North,No
+LEAD-0069,Awareness,2024-03-01,0,Website,East,No
+LEAD-0070,Awareness,2024-04-22,0,Ads,West,No
+LEAD-0070,Interest,2024-01-13,0,Ads,West,No
+LEAD-0071,Awareness,2024-04-18,0,Social Media,East,No
+LEAD-0072,Awareness,2024-02-21,0,Email,North,No
+LEAD-0073,Awareness,2024-02-02,0,Ads,West,No
+LEAD-0074,Awareness,2024-02-14,0,Referral,South,No
+LEAD-0074,Interest,2024-02-01,0,Referral,South,No
+LEAD-0074,Consideration,2024-01-07,0,Referral,South,No
+LEAD-0075,Awareness,2024-01-22,0,Email,East,No
+LEAD-0075,Interest,2024-02-29,0,Email,East,No
+LEAD-0075,Consideration,2024-01-04,0,Email,East,No
+LEAD-0076,Awareness,2024-04-07,0,Social Media,West,No
+LEAD-0076,Interest,2024-02-28,0,Social Media,West,No
+LEAD-0076,Consideration,2024-04-28,0,Social Media,West,No
+LEAD-0077,Awareness,2024-03-08,0,Ads,South,No
+LEAD-0078,Awareness,2024-03-15,0,Social Media,East,No
+LEAD-0078,Interest,2024-01-25,0,Social Media,East,No
+LEAD-0079,Awareness,2024-02-07,0,Social Media,South,No
+LEAD-0080,Awareness,2024-03-03,0,Referral,South,No
+LEAD-0081,Awareness,2024-01-09,0,Website,East,No
+LEAD-0082,Awareness,2024-04-11,0,Ads,South,No
+LEAD-0082,Interest,2024-01-11,0,Ads,South,No
+LEAD-0083,Awareness,2024-01-11,0,Referral,West,No
+LEAD-0083,Interest,2024-01-22,0,Referral,West,No
+LEAD-0083,Consideration,2024-04-12,0,Referral,West,No
+LEAD-0083,Purchase,2024-04-15,602,Referral,West,Yes
+LEAD-0084,Awareness,2024-03-02,0,Social Media,South,No
+LEAD-0085,Awareness,2024-02-10,0,Email,North,No
+LEAD-0085,Interest,2024-01-14,0,Email,North,No
+LEAD-0086,Awareness,2024-02-03,0,Email,South,No
+LEAD-0086,Interest,2024-01-15,0,Email,South,No
+LEAD-0087,Awareness,2024-01-11,0,Email,South,No
+LEAD-0088,Awareness,2024-04-20,0,Website,East,No
+LEAD-0089,Awareness,2024-03-13,0,Website,West,No
+LEAD-0090,Awareness,2024-04-28,0,Referral,South,No
+LEAD-0091,Awareness,2024-02-08,0,Social Media,North,No
+LEAD-0092,Awareness,2024-02-08,0,Website,East,No
+LEAD-0092,Interest,2024-01-05,0,Website,East,No
+LEAD-0092,Consideration,2024-03-17,0,Website,East,No
+LEAD-0092,Purchase,2024-02-12,883,Website,East,Yes
+LEAD-0093,Awareness,2024-01-11,0,Referral,South,No
+LEAD-0093,Interest,2024-02-26,0,Referral,South,No
+LEAD-0094,Awareness,2024-03-11,0,Ads,South,No
+LEAD-0095,Awareness,2024-03-15,0,Website,West,No
+LEAD-0095,Interest,2024-01-02,0,Website,West,No
+LEAD-0096,Awareness,2024-04-21,0,Ads,East,No
+LEAD-0096,Interest,2024-03-28,0,Ads,East,No
+LEAD-0096,Consideration,2024-02-18,0,Ads,East,No
+LEAD-0097,Awareness,2024-04-04,0,Ads,North,No
+LEAD-0097,Interest,2024-03-09,0,Ads,North,No
+LEAD-0098,Awareness,2024-04-05,0,Ads,South,No
+LEAD-0099,Awareness,2024-02-06,0,Ads,West,No
+LEAD-0099,Interest,2024-04-20,0,Ads,West,No
+LEAD-0100,Awareness,2024-01-03,0,Website,West,No
+LEAD-0101,Awareness,2024-03-29,0,Ads,South,No
+LEAD-0102,Awareness,2024-02-03,0,Email,East,No
+LEAD-0102,Interest,2024-01-18,0,Email,East,No
+LEAD-0103,Awareness,2024-01-14,0,Website,North,No
+LEAD-0103,Interest,2024-03-24,0,Website,North,No
+LEAD-0104,Awareness,2024-03-18,0,Email,South,No
+LEAD-0104,Interest,2024-01-04,0,Email,South,No
+LEAD-0105,Awareness,2024-02-05,0,Social Media,South,No
+LEAD-0105,Interest,2024-03-10,0,Social Media,South,No
+LEAD-0105,Consideration,2024-04-16,0,Social Media,South,No
+LEAD-0105,Purchase,2024-04-05,386,Social Media,South,Yes
+LEAD-0106,Awareness,2024-03-18,0,Website,South,No
+LEAD-0107,Awareness,2024-02-19,0,Email,East,No
+LEAD-0108,Awareness,2024-01-12,0,Referral,West,No
+LEAD-0109,Awareness,2024-01-27,0,Email,North,No
+LEAD-0109,Interest,2024-02-04,0,Email,North,No
+LEAD-0110,Awareness,2024-01-10,0,Website,South,No
+LEAD-0110,Interest,2024-03-20,0,Website,South,No
+LEAD-0110,Consideration,2024-02-27,0,Website,South,No
+LEAD-0111,Awareness,2024-03-15,0,Email,South,No
+LEAD-0112,Awareness,2024-02-05,0,Referral,South,No
+LEAD-0113,Awareness,2024-04-01,0,Ads,West,No
+LEAD-0113,Interest,2024-04-15,0,Ads,West,No
+LEAD-0113,Consideration,2024-01-07,0,Ads,West,No
+LEAD-0114,Awareness,2024-02-04,0,Ads,West,No
+LEAD-0114,Interest,2024-02-03,0,Ads,West,No
+LEAD-0114,Consideration,2024-03-15,0,Ads,West,No
+LEAD-0115,Awareness,2024-04-17,0,Ads,South,No
+LEAD-0116,Awareness,2024-04-03,0,Email,East,No
+LEAD-0117,Awareness,2024-03-22,0,Website,North,No
+LEAD-0118,Awareness,2024-04-04,0,Website,North,No
+LEAD-0118,Interest,2024-02-05,0,Website,North,No
+LEAD-0118,Consideration,2024-02-17,0,Website,North,No
+LEAD-0119,Awareness,2024-01-24,0,Social Media,East,No
+LEAD-0120,Awareness,2024-04-02,0,Email,South,No
+LEAD-0120,Interest,2024-03-16,0,Email,South,No
+LEAD-0121,Awareness,2024-02-03,0,Website,South,No
+LEAD-0122,Awareness,2024-04-06,0,Website,South,No
+LEAD-0123,Awareness,2024-01-25,0,Ads,South,No
+LEAD-0123,Interest,2024-02-16,0,Ads,South,No
+LEAD-0124,Awareness,2024-02-02,0,Referral,North,No
+LEAD-0124,Interest,2024-03-29,0,Referral,North,No
+LEAD-0125,Awareness,2024-02-10,0,Referral,West,No
+LEAD-0126,Awareness,2024-03-17,0,Website,East,No
+LEAD-0126,Interest,2024-02-28,0,Website,East,No
+LEAD-0127,Awareness,2024-03-30,0,Email,West,No
+LEAD-0127,Interest,2024-03-23,0,Email,West,No
+LEAD-0128,Awareness,2024-02-04,0,Email,East,No
+LEAD-0129,Awareness,2024-01-14,0,Website,East,No
+LEAD-0130,Awareness,2024-01-02,0,Email,North,No
+LEAD-0131,Awareness,2024-02-20,0,Social Media,West,No
+LEAD-0132,Awareness,2024-01-17,0,Email,North,No
+LEAD-0133,Awareness,2024-03-26,0,Referral,East,No
+LEAD-0133,Interest,2024-03-14,0,Referral,East,No
+LEAD-0134,Awareness,2024-03-17,0,Social Media,North,No
+LEAD-0135,Awareness,2024-01-05,0,Email,North,No
+LEAD-0135,Interest,2024-03-06,0,Email,North,No
+LEAD-0136,Awareness,2024-03-22,0,Ads,North,No
+LEAD-0136,Interest,2024-02-01,0,Ads,North,No
+LEAD-0136,Consideration,2024-04-10,0,Ads,North,No
+LEAD-0137,Awareness,2024-01-29,0,Ads,West,No
+LEAD-0138,Awareness,2024-01-01,0,Website,West,No
+LEAD-0138,Interest,2024-04-14,0,Website,West,No
+LEAD-0138,Consideration,2024-01-18,0,Website,West,No
+LEAD-0138,Purchase,2024-01-10,450,Website,West,Yes
+LEAD-0139,Awareness,2024-01-15,0,Website,North,No
+LEAD-0139,Interest,2024-03-14,0,Website,North,No
+LEAD-0139,Consideration,2024-03-16,0,Website,North,No
+LEAD-0140,Awareness,2024-02-21,0,Ads,West,No
+LEAD-0141,Awareness,2024-02-06,0,Website,West,No
+LEAD-0141,Interest,2024-03-12,0,Website,West,No
+LEAD-0141,Consideration,2024-03-31,0,Website,West,No
+LEAD-0142,Awareness,2024-02-13,0,Ads,North,No
+LEAD-0143,Awareness,2024-02-07,0,Ads,North,No
+LEAD-0144,Awareness,2024-03-31,0,Ads,East,No
+LEAD-0145,Awareness,2024-01-28,0,Ads,West,No
+LEAD-0145,Interest,2024-02-22,0,Ads,West,No
+LEAD-0145,Consideration,2024-01-01,0,Ads,West,No
+LEAD-0146,Awareness,2024-02-20,0,Social Media,East,No
+LEAD-0147,Awareness,2024-01-20,0,Website,East,No
+LEAD-0148,Awareness,2024-01-23,0,Email,South,No
+LEAD-0149,Awareness,2024-03-24,0,Email,East,No
+LEAD-0150,Awareness,2024-01-22,0,Referral,South,No
+LEAD-0150,Interest,2024-04-21,0,Referral,South,No
+LEAD-0151,Awareness,2024-02-23,0,Website,North,No
+LEAD-0152,Awareness,2024-04-17,0,Social Media,East,No
+LEAD-0153,Awareness,2024-04-01,0,Website,North,No
+LEAD-0154,Awareness,2024-02-15,0,Social Media,East,No
+LEAD-0155,Awareness,2024-04-15,0,Ads,East,No
+LEAD-0155,Interest,2024-01-02,0,Ads,East,No
+LEAD-0156,Awareness,2024-01-11,0,Referral,North,No
+LEAD-0156,Interest,2024-03-29,0,Referral,North,No
+LEAD-0156,Consideration,2024-03-31,0,Referral,North,No
+LEAD-0156,Purchase,2024-04-18,477,Referral,North,Yes
+LEAD-0157,Awareness,2024-02-22,0,Ads,South,No
+LEAD-0158,Awareness,2024-03-03,0,Ads,West,No
+LEAD-0158,Interest,2024-04-25,0,Ads,West,No
+LEAD-0158,Consideration,2024-01-04,0,Ads,West,No
+LEAD-0159,Awareness,2024-04-09,0,Referral,East,No
+LEAD-0159,Interest,2024-02-13,0,Referral,East,No
+LEAD-0159,Consideration,2024-04-30,0,Referral,East,No
+LEAD-0160,Awareness,2024-01-10,0,Referral,North,No
+LEAD-0160,Interest,2024-01-26,0,Referral,North,No
+LEAD-0160,Consideration,2024-04-09,0,Referral,North,No
+LEAD-0161,Awareness,2024-03-08,0,Website,North,No
+LEAD-0161,Interest,2024-04-20,0,Website,North,No
+LEAD-0161,Consideration,2024-03-27,0,Website,North,No
+LEAD-0161,Purchase,2024-02-01,510,Website,North,Yes
+LEAD-0162,Awareness,2024-03-07,0,Website,East,No
+LEAD-0163,Awareness,2024-01-16,0,Referral,East,No
+LEAD-0164,Awareness,2024-02-27,0,Social Media,East,No
+LEAD-0165,Awareness,2024-03-01,0,Social Media,West,No
+LEAD-0166,Awareness,2024-04-16,0,Ads,North,No
+LEAD-0166,Interest,2024-02-13,0,Ads,North,No
+LEAD-0166,Consideration,2024-04-30,0,Ads,North,No
+LEAD-0167,Awareness,2024-03-26,0,Website,East,No
+LEAD-0167,Interest,2024-02-23,0,Website,East,No
+LEAD-0168,Awareness,2024-04-07,0,Referral,West,No
+LEAD-0169,Awareness,2024-04-10,0,Website,North,No
+LEAD-0169,Interest,2024-03-03,0,Website,North,No
+LEAD-0170,Awareness,2024-04-17,0,Referral,East,No
+LEAD-0171,Awareness,2024-02-09,0,Ads,East,No
+LEAD-0171,Interest,2024-03-14,0,Ads,East,No
+LEAD-0171,Consideration,2024-04-06,0,Ads,East,No
+LEAD-0172,Awareness,2024-04-30,0,Website,South,No
+LEAD-0172,Interest,2024-03-04,0,Website,South,No
+LEAD-0172,Consideration,2024-04-26,0,Website,South,No
+LEAD-0173,Awareness,2024-01-02,0,Email,North,No
+LEAD-0173,Interest,2024-03-01,0,Email,North,No
+LEAD-0174,Awareness,2024-02-01,0,Email,North,No
+LEAD-0174,Interest,2024-04-24,0,Email,North,No
+LEAD-0174,Consideration,2024-02-04,0,Email,North,No
+LEAD-0175,Awareness,2024-03-10,0,Referral,North,No
+LEAD-0175,Interest,2024-02-25,0,Referral,North,No
+LEAD-0175,Consideration,2024-01-15,0,Referral,North,No
+LEAD-0176,Awareness,2024-02-21,0,Social Media,South,No
+LEAD-0177,Awareness,2024-04-04,0,Ads,South,No
+LEAD-0178,Awareness,2024-02-05,0,Email,North,No
+LEAD-0179,Awareness,2024-03-27,0,Email,North,No
+LEAD-0179,Interest,2024-02-09,0,Email,North,No
+LEAD-0180,Awareness,2024-04-09,0,Social Media,West,No
+LEAD-0181,Awareness,2024-02-04,0,Social Media,South,No
+LEAD-0182,Awareness,2024-03-04,0,Email,North,No
+LEAD-0183,Awareness,2024-01-02,0,Ads,North,No
+LEAD-0183,Interest,2024-02-17,0,Ads,North,No
+LEAD-0183,Consideration,2024-02-25,0,Ads,North,No
+LEAD-0184,Awareness,2024-03-25,0,Referral,South,No
+LEAD-0185,Awareness,2024-03-03,0,Website,East,No
+LEAD-0185,Interest,2024-01-31,0,Website,East,No
+LEAD-0186,Awareness,2024-01-03,0,Referral,East,No
+LEAD-0186,Interest,2024-02-17,0,Referral,East,No
+LEAD-0186,Consideration,2024-03-05,0,Referral,East,No
+LEAD-0187,Awareness,2024-02-02,0,Social Media,South,No
+LEAD-0188,Awareness,2024-01-30,0,Ads,North,No
+LEAD-0188,Interest,2024-02-02,0,Ads,North,No
+LEAD-0189,Awareness,2024-01-09,0,Referral,West,No
+LEAD-0190,Awareness,2024-01-28,0,Referral,South,No
+LEAD-0190,Interest,2024-02-05,0,Referral,South,No
+LEAD-0191,Awareness,2024-04-24,0,Ads,West,No
+LEAD-0192,Awareness,2024-03-08,0,Website,West,No
+LEAD-0192,Interest,2024-04-05,0,Website,West,No
+LEAD-0193,Awareness,2024-01-08,0,Ads,West,No
+LEAD-0194,Awareness,2024-03-17,0,Website,South,No
+LEAD-0195,Awareness,2024-02-15,0,Referral,East,No
+LEAD-0196,Awareness,2024-01-06,0,Email,North,No
+LEAD-0196,Interest,2024-02-18,0,Email,North,No
+LEAD-0197,Awareness,2024-03-10,0,Ads,South,No
+LEAD-0198,Awareness,2024-01-24,0,Website,South,No
+LEAD-0199,Awareness,2024-03-31,0,Email,East,No
+LEAD-0200,Awareness,2024-01-31,0,Website,East,No
